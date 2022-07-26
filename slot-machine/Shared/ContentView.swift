@@ -52,8 +52,83 @@ struct ContentView: View {
     @State private var showingAlert: Choice?
     
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ZStack{
+            Image("sunshine")
+                .resizable()
+                .ignoresSafeArea(.all)
+            VStack(alignment: .center, spacing: 80){
+                HStack{
+                    Image("fire")
+                        .resizable()
+                        .scaledToFit()
+                        .shadow(color: .orange, radius: 1, y: 3)
+                    Text("Slot Machine")
+                        .font(.system(size: 30))
+                        .fontWeight(.black)
+                        .shadow(color: .orange, radius: 1, y: 3)
+                    Image("fire")
+                        .resizable()
+                        .scaledToFit()
+                        .shadow(color: .orange, radius: 1, y: 3)
+                }.frame(width: .infinity, height: 50, alignment: .center)
+                VStack(spacing: 15){
+                    HStack(spacing: 35){
+                        Hexagon()
+                            .fill(Color.white.opacity(0.8))
+                            .frame(width: 100, height: 120, alignment: .center)
+                            .overlay(
+                            Image(symbols[0])
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 80, height: 70, alignment: .center)
+                                .shadow(color: .gray, radius: 4, x: 4, y: 5)
+                            )
+                        Hexagon()
+                            .fill(Color.white.opacity(0.8))
+                            .frame(width: 100, height: 120, alignment: .center)
+                            .overlay(
+                            Image(symbols[0])
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 80, height: 70, alignment: .center)
+                                .shadow(color: .gray, radius: 4, x: 4, y: 5)
+                            )
+                    }
+                    Hexagon()
+                        .fill(Color.white.opacity(0.8))
+                        .frame(width: 100, height: 120, alignment: .center)
+                        .overlay(
+                        Image(symbols[0])
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 80, height: 70, alignment: .center)
+                            .shadow(color: .gray, radius: 4, x: 4, y: 5)
+                        )
+                    HStack(spacing: 35){
+                        Hexagon()
+                            .fill(Color.white.opacity(0.8))
+                            .frame(width: 100, height: 120, alignment: .center)
+                            .overlay(
+                            Image(symbols[0])
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 80, height: 70, alignment: .center)
+                                .shadow(color: .gray, radius: 4, x: 4, y: 5)
+                            )
+                        Hexagon()
+                            .fill(Color.white.opacity(0.8))
+                            .frame(width: 100, height: 120, alignment: .center)
+                            .overlay(
+                            Image(symbols[0])
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 80, height: 70, alignment: .center)
+                                .shadow(color: .gray, radius: 4, x: 4, y: 5)
+                            )
+                    }
+                }
+            }
+        }
     }
 }
 
