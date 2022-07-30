@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "apricot-1380016.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

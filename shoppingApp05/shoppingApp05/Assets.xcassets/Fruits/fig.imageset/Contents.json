@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "fig-1380028.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
