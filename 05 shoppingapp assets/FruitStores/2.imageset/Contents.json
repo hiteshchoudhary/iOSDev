@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "food-delivery-with-hands-holding-a-paper-shopping-bag-full-of-goods-and-product-including-bread-milk-vegetables-and-cheese.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "woman-drinking-fresh-fruit-juice.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

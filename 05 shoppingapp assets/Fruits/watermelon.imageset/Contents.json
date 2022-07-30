@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "watermelon-1380009.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

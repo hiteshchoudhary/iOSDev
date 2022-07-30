@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "kiwi-1380032.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
