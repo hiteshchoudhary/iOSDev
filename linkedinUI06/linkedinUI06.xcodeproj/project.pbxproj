@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F884033A28A101AF00D6B629 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F884033928A101AF00D6B629 /* SearchBar.swift */; };
 		F8B0517928A0FC0800A9E698 /* linkedinUI06App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B0517828A0FC0800A9E698 /* linkedinUI06App.swift */; };
 		F8B0517B28A0FC0800A9E698 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B0517A28A0FC0800A9E698 /* ContentView.swift */; };
 		F8B0517D28A0FC0900A9E698 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8B0517C28A0FC0900A9E698 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F884033928A101AF00D6B629 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		F8B0517528A0FC0800A9E698 /* linkedinUI06.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = linkedinUI06.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8B0517828A0FC0800A9E698 /* linkedinUI06App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = linkedinUI06App.swift; sourceTree = "<group>"; };
 		F8B0517A28A0FC0800A9E698 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +34,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F884033828A1019E00D6B629 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F884033928A101AF00D6B629 /* SearchBar.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		F8B0516C28A0FC0800A9E698 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +61,7 @@
 		F8B0517728A0FC0800A9E698 /* linkedinUI06 */ = {
 			isa = PBXGroup;
 			children = (
+				F884033828A1019E00D6B629 /* Views */,
 				F8B0517828A0FC0800A9E698 /* linkedinUI06App.swift */,
 				F8B0517A28A0FC0800A9E698 /* ContentView.swift */,
 				F8B0517C28A0FC0900A9E698 /* Assets.xcassets */,
@@ -139,6 +150,7 @@
 			files = (
 				F8B0517B28A0FC0800A9E698 /* ContentView.swift in Sources */,
 				F8B0517928A0FC0800A9E698 /* linkedinUI06App.swift in Sources */,
+				F884033A28A101AF00D6B629 /* SearchBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
