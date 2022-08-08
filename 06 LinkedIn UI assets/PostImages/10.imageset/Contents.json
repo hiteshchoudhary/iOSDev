@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-screen-post-4526398.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

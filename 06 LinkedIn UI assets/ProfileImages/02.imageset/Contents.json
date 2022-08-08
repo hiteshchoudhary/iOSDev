@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-hiếu-hoàng-712143.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

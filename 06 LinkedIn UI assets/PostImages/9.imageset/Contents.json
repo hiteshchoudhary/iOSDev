@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-fauxels-3183149.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

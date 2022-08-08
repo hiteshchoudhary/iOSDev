@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-nappy-1068205.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

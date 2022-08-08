@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-sharad-kachhi-3937174.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
