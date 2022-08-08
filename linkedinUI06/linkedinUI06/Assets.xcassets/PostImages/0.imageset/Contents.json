@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-александар-цветановић-1440387.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
