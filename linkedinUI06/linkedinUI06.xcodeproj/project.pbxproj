@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		F8814A0D28A4071400E8F25D /* MyNetworkScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A0C28A4071400E8F25D /* MyNetworkScreen.swift */; };
+		F8814A0F28A40C1D00E8F25D /* PostCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A0E28A40C1D00E8F25D /* PostCardView.swift */; };
+		F8814A1128A417E200E8F25D /* ProfileAndPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A1028A417E200E8F25D /* ProfileAndPostView.swift */; };
+		F8814A1328A41B3200E8F25D /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A1228A41B3200E8F25D /* PostView.swift */; };
+		F8814A1528A41D9800E8F25D /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A1428A41D9800E8F25D /* HomeScreen.swift */; };
+		F8814A1728A41F6100E8F25D /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A1628A41F6100E8F25D /* TabView.swift */; };
 		F884033A28A101AF00D6B629 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F884033928A101AF00D6B629 /* SearchBar.swift */; };
 		F88B071128A11AEE0080401D /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88B071028A11AEE0080401D /* PostModel.swift */; };
 		F88B071328A11AFC0080401D /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88B071228A11AFC0080401D /* NetworkModel.swift */; };
@@ -20,6 +25,11 @@
 
 /* Begin PBXFileReference section */
 		F8814A0C28A4071400E8F25D /* MyNetworkScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNetworkScreen.swift; sourceTree = "<group>"; };
+		F8814A0E28A40C1D00E8F25D /* PostCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardView.swift; sourceTree = "<group>"; };
+		F8814A1028A417E200E8F25D /* ProfileAndPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileAndPostView.swift; sourceTree = "<group>"; };
+		F8814A1228A41B3200E8F25D /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
+		F8814A1428A41D9800E8F25D /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		F8814A1628A41F6100E8F25D /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
 		F884033928A101AF00D6B629 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		F88B071028A11AEE0080401D /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
 		F88B071228A11AFC0080401D /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
@@ -48,6 +58,11 @@
 				F884033928A101AF00D6B629 /* SearchBar.swift */,
 				F897124928A13EC90076EBDE /* InvitationView.swift */,
 				F8814A0C28A4071400E8F25D /* MyNetworkScreen.swift */,
+				F8814A0E28A40C1D00E8F25D /* PostCardView.swift */,
+				F8814A1028A417E200E8F25D /* ProfileAndPostView.swift */,
+				F8814A1228A41B3200E8F25D /* PostView.swift */,
+				F8814A1428A41D9800E8F25D /* HomeScreen.swift */,
+				F8814A1628A41F6100E8F25D /* TabView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -168,12 +183,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8814A0F28A40C1D00E8F25D /* PostCardView.swift in Sources */,
+				F8814A1128A417E200E8F25D /* ProfileAndPostView.swift in Sources */,
 				F8B0517B28A0FC0800A9E698 /* ContentView.swift in Sources */,
 				F88B071128A11AEE0080401D /* PostModel.swift in Sources */,
+				F8814A1528A41D9800E8F25D /* HomeScreen.swift in Sources */,
 				F8B0517928A0FC0800A9E698 /* linkedinUI06App.swift in Sources */,
 				F88B071328A11AFC0080401D /* NetworkModel.swift in Sources */,
 				F884033A28A101AF00D6B629 /* SearchBar.swift in Sources */,
 				F897124A28A13EC90076EBDE /* InvitationView.swift in Sources */,
+				F8814A1328A41B3200E8F25D /* PostView.swift in Sources */,
+				F8814A1728A41F6100E8F25D /* TabView.swift in Sources */,
 				F8814A0D28A4071400E8F25D /* MyNetworkScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
