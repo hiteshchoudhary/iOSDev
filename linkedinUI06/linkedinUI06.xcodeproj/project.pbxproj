@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F8814A0D28A4071400E8F25D /* MyNetworkScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8814A0C28A4071400E8F25D /* MyNetworkScreen.swift */; };
 		F884033A28A101AF00D6B629 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F884033928A101AF00D6B629 /* SearchBar.swift */; };
 		F88B071128A11AEE0080401D /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88B071028A11AEE0080401D /* PostModel.swift */; };
 		F88B071328A11AFC0080401D /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88B071228A11AFC0080401D /* NetworkModel.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F8814A0C28A4071400E8F25D /* MyNetworkScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNetworkScreen.swift; sourceTree = "<group>"; };
 		F884033928A101AF00D6B629 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		F88B071028A11AEE0080401D /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
 		F88B071228A11AFC0080401D /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 			children = (
 				F884033928A101AF00D6B629 /* SearchBar.swift */,
 				F897124928A13EC90076EBDE /* InvitationView.swift */,
+				F8814A0C28A4071400E8F25D /* MyNetworkScreen.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				F88B071328A11AFC0080401D /* NetworkModel.swift in Sources */,
 				F884033A28A101AF00D6B629 /* SearchBar.swift in Sources */,
 				F897124A28A13EC90076EBDE /* InvitationView.swift in Sources */,
+				F8814A0D28A4071400E8F25D /* MyNetworkScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
